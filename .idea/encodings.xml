@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/database/glossaryDB.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/database/reciteDB.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/MainInterface.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Register.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/query/QueryWord.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/user/ModifiedPassword.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

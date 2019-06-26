@@ -1,0 +1,39 @@
+.button:hover{
+    -fx-cursor: hand;
+}
+.button{
+    -fx-background-color: linear-gradient(to bottom,#7dc2fe,#004883);
+    -fx-font-size: 24px;
+    -fx-pref-width:64px;
+    -fx-pref-height: 28px;
+    -fx-text-alignment: center;
+    -fx-text-fill: #fff;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 8px;
+}
+
+.label {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+    -fx-font-family: 方正清刻;
+}
+.tab{
+    -fx-font-size: 14px;
+    -fx-background-color: white;
+    -fx-background-size: 15px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-insets: 100%;
+}
+.tab:hover{
+    -fx-background-color: #1a83e1;
+    -fx-text-fill: white;
+    -fx-color : #1a83e1;
+}
+.tab:selected{
+    -fx-background-color: #1a83e1;
+    -fx-text-fill: white;
+    -fx-color : #1a83e1;
+}
+
+
